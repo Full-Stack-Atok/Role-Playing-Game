@@ -269,4 +269,4 @@ function isMonsterHit() {
 
 function isMonsterHit() {
     return Math.random() > .2;
-  
+}
